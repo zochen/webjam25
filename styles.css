@@ -1,27 +1,16 @@
 h1 {
-  font-family:
-    -apple-system,
-    BlinkMacSystemFont,
-    avenir next,
-    avenir,
-    segoe ui,
-    helvetica neue,
-    helvetica,
-    Cantarell,
-    Ubuntu,
-    roboto,
-    noto,
-    arial,
+  font-family: -apple-system, BlinkMacSystemFont, avenir next, avenir, segoe ui,
+    helvetica neue, helvetica, Cantarell, Ubuntu, roboto, noto, arial,
     sans-serif;
   margin: 24px 0;
 }
 
 .bold-paragraph {
-  color: #ff87a6;
+  color: #3b1579;
 }
 
 #bold {
-  background-color: #ff87a6;
+  background-color: #437d3e;
   color: white;
 }
 
